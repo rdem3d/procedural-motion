@@ -2,6 +2,8 @@
 
 **0.8.0 Community Beta · Build FDR4G5**
 
+💬 [Join the Discord discussion](https://discord.com/channels/553166696916189184/1557580375968972943)
+
 Procedural Motion is an independent community plugin for Cascadeur. It adds procedural motion to selected controllers, from breathing, recoil and idle movement to camera shake and vibration.
 
 **This is an independent Community Beta plugin, not an official Nekki or Cascadeur product.** Back up your scenes and test changes on copies.

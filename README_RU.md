@@ -2,6 +2,8 @@
 
 **0.8.0 Community Beta · FDR4G5** — независимый плагин сообщества для Cascadeur, не официальный продукт Nekki. Требуется Cascadeur 2026.2 или новее; версия 2026.2.3 проверялась на macOS, Windows и Linux требуют дополнительного тестирования.
 
+💬 [Обсуждение в Discord](https://discord.com/channels/553166696916189184/1557580375968972943)
+
 Скачайте ZIP из [Releases](https://github.com/rdem3d/procedural-motion/releases), полностью распакуйте его и закройте Cascadeur. В терминале macOS запустите `./macOS/Install.command` из папки архива; для нестандартного расположения Cascadeur измените путь `target` в установщике. На Windows запустите `Windows\Install-Windows.bat` и укажите папку установки Cascadeur. На Linux запустите `./Linux/Install.sh` и укажите путь установки.
 
 Запустите Cascadeur снова или выберите **Commands → Reload scripts**, затем **Animation Scripts → Procedural Motion**. Подробные инструкции находятся в `START_HERE_RU.pdf` и `USER_GUIDE_RU.pdf` внутри архива.
