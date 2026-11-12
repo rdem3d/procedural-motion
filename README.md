@@ -2,11 +2,9 @@
 
 **0.8.0 Community Beta · Build FDR4G5**
 
-💬 [Join the Discord discussion](https://discord.com/channels/553166696916189184/1557580375968972943)
+**Русский:** [Инструкция](README_RU.md) · [Видеообзор](https://www.youtube.com/shorts/G93aEAhL5ZE)
 
-Procedural Motion is an independent community plugin for Cascadeur. It adds procedural motion to selected controllers, from breathing, recoil and idle movement to camera shake and vibration.
-
-Generate breathing, recoil, camera shake, and secondary motion without manually animating every keyframe.
+Procedural Motion is an independent community plugin for Cascadeur that generates procedural motion for selected controllers. Create breathing, recoil, idle motion, camera shake and secondary motion without manually animating every keyframe.
 
 [**Download Procedural Motion 0.8.0 Community Beta**](https://github.com/rdem3d/procedural-motion/releases/tag/v0.8.0-beta)
 
@@ -17,6 +15,8 @@ Download the ZIP from **Assets**, not the automatically generated GitHub Source 
 ![Weapon recoil demonstration](images/recoil-demo.gif)
 
 *Procedural weapon recoil generated with Procedural Motion.*
+
+[Watch the English demo](https://www.youtube.com/shorts/4JKhBves65k)
 
 ![Procedural Motion main window](images/main-window.png)
 
@@ -37,11 +37,9 @@ Download the ZIP from **Assets**, not the automatically generated GitHub Source 
 
 ![Filter and signal](images/filters.png)
 
-## Requirements and download
+## Requirements
 
 Cascadeur **2026.2 or newer** is required. This build has been tested with Cascadeur 2026.2.3 on macOS. Windows and Linux installers are included, but those platforms require further runtime testing.
-
-Download `ProceduralMotion-0.8.0-beta-FDR4G5.zip` from [Releases](https://github.com/rdem3d/procedural-motion/releases). Use the ZIP in **Assets**; the automatically generated source archives contain only this presentation repository.
 
 ## Installation
 
@@ -69,4 +67,4 @@ This is a beta: errors, freezes or crashes may occur. Apply writes to the scene;
 
 Please use [GitHub Issues](https://github.com/rdem3d/procedural-motion/issues) for bug reports. Include OS, Cascadeur version, build ID, steps, selected controllers and range, preset, expected and actual behavior, and relevant logs or screenshots. Review files for private information before sharing.
 
-[Краткая инструкция на русском](README_RU.md)
+💬 [Join the Discord discussion](https://discord.com/channels/553166696916189184/1557580375968972943) for conversation and feedback.
