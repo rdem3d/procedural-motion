@@ -18,7 +18,7 @@ Procedural Motion is an independent community plugin for Cascadeur. It adds proc
 - Parameter Overrides per axis and ordered, multi-axis Filters for Sine Wave.
 - Fix Interpolation and Selected Keys Only apply modes.
 
-![Preset Library](images/preset-library.png)
+![Filter and signal](images/filters.png)
 
 ## Requirements and download
 
@@ -40,7 +40,7 @@ Restart Cascadeur or use **Commands → Reload scripts**. Open **Animation Scrip
 
 Open Preset Library, right-click a preset and select **Export…** to save a JSON file. To import, choose **Import Preset** and select the JSON. It contains settings, not a Cascadeur scene or animation. See the user guide for name conflicts.
 
-![Filter and signal](images/filters.png)
+![Preset Library](images/preset-library.png)
 
 ## Uninstallation
 
