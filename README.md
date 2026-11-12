@@ -6,17 +6,34 @@
 
 Procedural Motion is an independent community plugin for Cascadeur. It adds procedural motion to selected controllers, from breathing, recoil and idle movement to camera shake and vibration.
 
+Generate breathing, recoil, camera shake, and secondary motion without manually animating every keyframe.
+
+[**Download Procedural Motion 0.8.0 Community Beta**](https://github.com/rdem3d/procedural-motion/releases/tag/v0.8.0-beta)
+
+Download the ZIP from **Assets**, not the automatically generated GitHub Source code ZIP.
+
 **This is an independent Community Beta plugin, not an official Nekki or Cascadeur product.** Back up your scenes and test changes on copies.
+
+![Weapon recoil demonstration](images/recoil-demo.gif)
+
+*Procedural weapon recoil generated with Procedural Motion.*
 
 ![Procedural Motion main window](images/main-window.png)
 
+## What can you create?
+
+- Character breathing and idle motion.
+- Weapon recoil and impact reactions.
+- Handheld camera shake.
+- Mechanical vibration and secondary motion.
+
 ## Features
 
-- **Noise** for irregular, seeded motion and **Sine Wave** for repeating motion.
-- Position, Rotation and Scale channels, spatial modes, fade, variation and signal previews.
-- A searchable Preset Library with Factory and User presets, JSON import/export and user preset management.
-- Parameter Overrides per axis and ordered, multi-axis Filters for Sine Wave.
-- Fix Interpolation and Selected Keys Only apply modes.
+- **Noise** creates irregular, seeded motion; **Sine Wave** creates repeating motion.
+- Position, Rotation and Scale channels, spatial modes, fade, variation and signal previews help shape and inspect movement.
+- A searchable Preset Library with Factory and User presets lets you reuse settings and share them through JSON import/export.
+- Parameter Overrides adjust individual axes, while ordered, multi-axis Filters shape Sine Wave signals.
+- Fix Interpolation and Selected Keys Only apply modes provide control over how motion is applied.
 
 ![Filter and signal](images/filters.png)
 
